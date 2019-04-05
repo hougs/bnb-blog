@@ -1,64 +1,27 @@
-baseURL = "http://baggedandboosted.com/"
-languageCode = "en-us"
-title = "My Blog"
-theme = "mero"
+# Site settings
+baseurl = "https://baggedandboosted.com/"
+title = "Bagged and Boosted"
+paginate = 5
+buildFuture = true
+
+[[menu.social]]
+  name = "GitHub"
+  title = "fab fa-github-square"
+  url = "https://github.com/hougs"
+
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"
 
 [params]
   author = "Juliet Hougland"
-  description = "My awesome blog"
+  twitter = "j_houg"
+  classes = []
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    title = "home"
-    url = "/"
-    weight = 100
-
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    title = "posts"
-    url = "/posts/"
-    weight = 200
-
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    title = "categories"
-    url = "/categories/"
-    weight = 300    
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    title = "tags"
-    url = "/tags/"
-    weight = 400 
-
-[params.introduction]
-   text = "**This website** is my blog."
-
-[params.social]
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-linkedin-in"
-  url = "https://www.linkedin.com/in/jhlch/"
-
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-github"
-  url = "https://github.com/hougs"
-
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-twitter"
-  url = "https://twitter.com/j_houg"
-
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-stack-overflow"
-  url = "https://stackexchange.com/users/4590526/j-houg"
-
-[params.footer]
-  message = "&copy; 2019 Juliet Hougland"
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
