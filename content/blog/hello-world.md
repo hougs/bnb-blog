@@ -1,9 +1,10 @@
 ---
 title: Hello World
 date: "2019-03-26"
-url: /hello-world
+url: /blog/hello-world
 description: "Not a lot, just enough."
-classes:
+image: 'media/2019/04/spacex-530585-unsplash.jpg'
+credit: 'https://unsplash.com/photos/uj3hvdfQujI'
 categories:
 - Meh
 ---

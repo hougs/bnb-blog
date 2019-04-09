@@ -1,9 +1,10 @@
 ---
-title: Hello World
+title: 'Begining of my time in Roatan'
 date: "2019-04-06"
-url: /houston-roatan
+url: /blog/houston-roatan
 description: "Not a lot, just enough."
-classes:
+image: 'media/2019/04/sundowners-sunset-roatan.jpg'
+thumbnail: 'media/2019/04/sundowners-sunset-roatan-500.jpg'
 categories:
 - Recipes
 - Travel
@@ -30,9 +31,19 @@ plane and ended up running into Felix's birthday party, including everyone from
 the dive shop and Nikki and Matt. I ended up having already met about a 1/3 of
 the bar. Gosh I love talking to strangers.
 
-![Hot Sauce](/img/hot-sauce-roatan-500.jpg)
+![Smoky Island Hot Sauce](/media/2019/04/hot-sauce-roatan-500.jpg)
 
-Tuna Salad Recipe
-======
-Salad topped with fresh, grilled tuna. Home made habanero hot sauce instead of
-salad dressing. Eat it on the beach.
+# Tuna Salad Recipe
+
+## Ingredients:
+- Lettuce
+- Sweet peppers
+- Avocado
+- Fresh grilled tuna
+
+## Directions:
+1) Top salad with fresh grilled tuna.
+
+2) Drown it in habanero hot sauce.
+
+3) Eat it on the beach.

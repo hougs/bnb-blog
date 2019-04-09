@@ -1,0 +1,77 @@
+
+baseurl: 'http://www.baggedandboosted.com/'
+buildFuture: true
+blackfriday:
+  plainIdAnchors: true
+theme: story
+title: "Bagged and Boosted"
+menu:
+   main:
+   - name: Archives
+     title: Archives
+     url: /archives/
+   - name: Talks
+     title: Talks
+     url: /talks/
+   social:
+   - name: linkedin
+     title: "fab fa-linkedin"
+     url: "https://linkedin.com/in/jhlch"
+   - name: twitter
+     title: "fab fa-twitter-square"
+     url: "https://twitter.com/j_houg"
+   - name: github
+     title: "fab fa-github-square"
+     url: "https://github.com/hougs"
+params:
+   author: "Juliet Hougland"
+   twitter: "j_houg"
+   titlecase: true
+   classes:
+   - feature-math
+   - feature-figcaption
+   - feature-tablecaption
+   - feature-figcaption-hidden
+   - feature-3dbook-covers
+   - feature-hyphenate
+   - feature-justify
+   - feature-highlight
+   - feature-hrfleuron
+   - feature-qrcode
+   - feature-tweetquote
+   - feature-depth
+MetaDataFormat: "yaml"
+Paginate: 20
+rssLimit: 20
+Taxonomies:
+   category: "categories"
+   tag: "tags"
+outputs:
+   home:
+      - HTML
+      - JSON
+      - RSS
+   page:
+      - HTML
+   section:
+      - HTML
+      - RSS
+   taxonomy:
+      - HTML
+      - RSS
+   taxonomyTerm:
+      - HTML
+      - RSS
+Related:
+   threshold: 50
+   toLower: true
+   indices:
+      - name: keywords
+        weight: 100
+      - name: categories
+        weight: 50
+      - name: description
+        weight: 50
+      - name: title
+        weight: 100
+---
