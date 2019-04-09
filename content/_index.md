@@ -1,7 +1,7 @@
 ---
 title: Bagged and Boosted
-subtitle: "Showcase Your Work"
+subtitle: "Like everything, a work in progress"
 ---
-[![Juliet Hougland](/img/london-headshot.jpg)](https://www.xaprb.com)
+[![Juliet Hougland](/img/london-headshot.jpg)](https://www.baggedandboosted.com)
 
 Juliet does mathy-computer things, sometimes.
