@@ -1,5 +1,4 @@
-
-baseurl: 'http://www.baggedandboosted.com/'
+baseurl: 'https://www.baggedandboosted.com/'
 buildFuture: true
 blackfriday:
   plainIdAnchors: true
@@ -10,9 +9,6 @@ menu:
    - name: Archives
      title: Archives
      url: /archives/
-   - name: Talks
-     title: Talks
-     url: /talks/
    social:
    - name: linkedin
      title: "fab fa-linkedin"
