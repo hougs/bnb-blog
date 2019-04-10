@@ -1,0 +1,5 @@
+---
+layout: mailchimp
+outputs:
+- rss
+---
