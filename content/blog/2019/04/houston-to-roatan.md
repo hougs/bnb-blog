@@ -1,5 +1,5 @@
 ---
-title: 'Begining of my time in Roatan'
+title: 'Beginning of my time in Roatan'
 date: "2019-04-06"
 url: /blog/houston-roatan
 description: "Not a lot, just enough."
@@ -15,8 +15,8 @@ over again. It is my 4th day on the island and I'm in the middle of my PADI
 Open Water certification course at Roatan Divers. My first open water dive blew
 my mind. I've never seen a reef like this. Enormous, healthy,
 and full of all kinds of life. Everything was amazing and two sea turtles
-(a green sea turtle and a hornsbill) came out to say 'Hello!' Yesterday I finished
-up the theory portion of the class. Swiming out to do my last confined dive,
+(a green sea turtle and a hornbill) came out to say 'Hello!' Yesterday I finished
+up the theory portion of the class. Swimming out to do my last confined dive,
 in the shallow Half Moon Bay in West End we saw an Eagle Ray. In the afternoon
 I got to
 
