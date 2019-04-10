@@ -3,6 +3,7 @@ buildFuture: true
 blackfriday:
   plainIdAnchors: true
 theme: story
+googleAnalytics: "UA-138046739-1"
 title: "Bagged and Boosted"
 menu:
    main:
