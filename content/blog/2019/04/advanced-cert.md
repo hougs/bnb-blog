@@ -1,6 +1,6 @@
 ---
 title: 'Even more diving'
-date: "2019-04-13"
+date: "2019-04-17"
 url: /blog/advanced-cert
 description: "And then I dove deeper."
 image: 'media/2019/04/barrel-sponge.jpg'
